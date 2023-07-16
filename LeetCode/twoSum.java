@@ -1,3 +1,4 @@
+package LeetCode;
 // https://leetcode.com/problems/two-sum/
 
 class Solution {
