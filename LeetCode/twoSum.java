@@ -1,4 +1,4 @@
-package LeetCode;
+// package LeetCode;
 // https://leetcode.com/problems/two-sum/
 
 class Solution {
@@ -14,6 +14,7 @@ class Solution {
         }
         return answer;
     }
+    
 }
 
 
